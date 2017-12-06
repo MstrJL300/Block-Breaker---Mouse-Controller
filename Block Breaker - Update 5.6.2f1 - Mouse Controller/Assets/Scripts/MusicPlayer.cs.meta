@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fece7b6b906666499837bda57c16718
+timeCreated: 1512523784
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameMusic: {fileID: 8300000, guid: 9d75d1d39d4ce7d4788f32b6abf10413, type: 3}
+  - menuMusic: {fileID: 8300000, guid: b17902a5d1b1afd48a9a1b259cbb3b42, type: 3}
+  - gameOver: {fileID: 8300000, guid: e5e27df6f820d594099bfe6a165a2efb, type: 3}
+  - win: {fileID: 8300000, guid: ea4d49cdbb2039f49949b7e1d7f2abfe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

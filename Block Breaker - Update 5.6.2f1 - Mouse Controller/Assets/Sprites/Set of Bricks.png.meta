@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: e2688571751511f4d91ed97f947bb776
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Brick Wall [FULL]
+    21300002: Brick Wall [Left Part]
+    21300004: Brick Wall [Right Part]
+    21300006: Brick Wall [FULL] 1 Hit
+    21300008: Brick Wall [Left Part] 1 Hit
+    21300010: Brick Wall [Right Part] 1 Hit
+    21300012: Brick Wall [FULL] 2 Hit
+    21300014: Brick Wall [Left Part] 2 Hit
+    21300016: Brick Wall [Right Part] 2 Hit
+    21300018: Brick
+    21300022: 1 Hit
+    21300028: 2 Hit
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Brick
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick Wall [Right Part]
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Hit
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2 Hit
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
